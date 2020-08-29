@@ -1,4 +1,3 @@
 # first-repo
 
-
-edited locally latest manually
+edited manually on remote in github
